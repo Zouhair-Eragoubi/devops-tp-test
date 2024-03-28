@@ -1,6 +1,6 @@
 pipeline {  
   environment {
-      registry = "zacklordbing/tp5"
+      registry = "Zouhair-Eragoubi/devops-tp-test"
       registryCredential = 'v1'
       dockerImage = ''
   }
