@@ -1,6 +1,6 @@
 pipeline {  
   environment {
-      registry = "Zouhair-Eragoubi/devops-tp-test"
+      registry = "zouhair-eragoubi/devops-tp-test"
       registryCredential = 'v1'
       dockerImage = ''
   }
